@@ -1,0 +1,25 @@
+Here we are going to create an bookng apilication for an local machine
+Here we has been declare some varibles like "conferenceName", remainingTickets,constConferenceTickets
+writing the print statements
+and here we are declare the var like firstName,lastName,email,userTickkets and their types
+after that writing the print statements for asking firstName and Scan statements declare the pointer to firstName
+like that write to all the 4 conditions
+write a statements to know remainingTickets 
+And write the print statements to that
+And again we are declar the var of bookings here
+write a statements to that bookings 
+and write print statements to the remainingTickets
+and for that print statements to print the whole array, firstName,typr,length 
+here declarthe valu with short method then we can remove the above statements
+here we add the for loop statement
+and here we write a for loop to print only the user firstName with help of strings.Fields()
+here we write an if statement & break condition that for all tickets are sold out
+here we write an if statement & break condition that if user is try book more than the usertickets is greater than remainingTickets
+here we write an if statement that which if usertickets <= remainingTickets
+here we are writing statement for vaild username and vaild email for email we use strings.Contains()
+here writing if statement for where the user enter invaild inputs
+writing functions
+first we write the basic welcome booking api functions
+and here wew write the func for getting firstNames here
+and here we write the vaildate user input func here
+ 
